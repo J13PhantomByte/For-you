@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "https://jooselleebew.github.io/PortfolioMe-3/"
+  location.href = "https://portofolio-juaan.vercel.app/"
 }
