@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "https://portofolio-juaan.vercel.app/"
+  location.href = "https://juanfelixv4-three.vercel.app/"
 }
