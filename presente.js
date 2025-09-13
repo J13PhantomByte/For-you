@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "INI_NANTI_BISA_DIGANTI_JADI_WEBSITE_PORTFOLIO"
+  location.href = "/"
 }
