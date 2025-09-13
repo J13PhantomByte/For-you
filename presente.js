@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "/"
+  location.href = "https://j13phantombyte.github.io/For-you/presente.html/"
 }
