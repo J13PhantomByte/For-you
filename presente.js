@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "https://juanfelixv4-three.vercel.app/"
+  location.href = "INI_NANTI_BISA_DIGANTI_JADI_WEBSITE_PORTFOLIO"
 }
