@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "https://www.instagram.com/journey1me/"
+  location.href = "https://www.instagram.com/journey1me"
 }
