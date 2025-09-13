@@ -18,5 +18,5 @@ function abrir() {
 }
 
 function yt() {
-  location.href = "https://j13phantombyte.github.io/For-you/presente.html/"
+  location.href = "https://www.instagram.com/journey1me/"
 }
